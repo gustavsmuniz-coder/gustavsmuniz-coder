@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./banner-gustavo.svg" alt="Banner profissional de Gustavo Suzart" width="100%" />
+
+</div>
+
+<div align="center">
+
 # Olá, eu sou Gustavo! 👋
 
 **Estudante de Técnico em Informática | Projetos práticos, tecnologia e modelagem 3D**
