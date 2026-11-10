@@ -48,13 +48,23 @@ Gosto de transformar ideias em projetos reais, combinando programação, tecnolo
 
 Esses indicadores são atualizados automaticamente e mostram apenas informações públicas do GitHub. O gráfico de contribuições completo também aparece na parte inferior do meu perfil.
 
-### 💻 Linguagens de programação
+### 💻 Linguagens e tecnologias de desenvolvimento
 
 <p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="C Sharp" />
   <img src="https://img.shields.io/badge/TypeScript-em%20estudo-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript em estudo" />
 </p>
 
-**Em foco:** TypeScript para desenvolvimento de aplicativos com React Native. Quando eu publicar repositórios com código, poderei mostrar também um ranking das linguagens realmente utilizadas nesses projetos.
+- **Linguagens de programação:** JavaScript e C#.
+- **Tecnologias web:** HTML5 e CSS3.
+- **Ambiente de execução:** Node.js.
+- **Em estudo:** TypeScript para desenvolvimento de aplicativos com React Native.
+
+Essas são tecnologias com as quais já tive contato ou que estou explorando. Quando eu publicar repositórios com código, poderei mostrar também um ranking das linguagens realmente utilizadas nesses projetos.
 
 ### 📌 Projetos em destaque
 
