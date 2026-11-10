@@ -38,6 +38,24 @@ Gosto de transformar ideias em projetos reais, combinando programação, tecnolo
 
 **Áreas que estou explorando:** desenvolvimento de aplicativos com React Native e TypeScript, projetos com sensores e ferramentas de desenvolvimento.
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/gustavsmuniz-coder?label=Seguidores&amp;style=for-the-badge&amp;logo=github&amp;labelColor=10263B&amp;color=20B9C6" alt="Número de seguidores no GitHub" />
+  <img src="https://img.shields.io/github/stars/gustavsmuniz-coder?affiliations=OWNER&amp;label=Estrelas&amp;style=for-the-badge&amp;logo=github&amp;labelColor=10263B&amp;color=4BA3FF" alt="Estrelas recebidas nos repositórios" />
+  <img src="https://img.shields.io/github/commit-activity/m/gustavsmuniz-coder/gustavsmuniz-coder?label=Commits%20no%20m%C3%AAs&amp;style=for-the-badge&amp;logo=github&amp;labelColor=10263B&amp;color=20B9C6" alt="Commits do mês no repositório de perfil" />
+</div>
+
+Esses indicadores são atualizados automaticamente e mostram apenas informações públicas do GitHub. O gráfico de contribuições completo também aparece na parte inferior do meu perfil.
+
+### 💻 Linguagens de programação
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-em%20estudo-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript em estudo" />
+</p>
+
+**Em foco:** TypeScript para desenvolvimento de aplicativos com React Native. Quando eu publicar repositórios com código, poderei mostrar também um ranking das linguagens realmente utilizadas nesses projetos.
+
 ### 📌 Projetos em destaque
 
 **🏫 EducaTech — Trabalho de Conclusão de Curso (TCC)**  
