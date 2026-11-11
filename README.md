@@ -16,6 +16,19 @@
 
 ---
 
+### ⌨️ Gustavo no terminal
+
+```bash
+gustavo@portfolio:~$ whoami
+Gustavo Suzart Muniz | Técnico em Informática (formação em 2026)
+
+gustavo@portfolio:~$ ls interesses/
+desenvolvimento-web  sensores  modelagem-3d  realidade-virtual
+
+gustavo@portfolio:~$ echo "Construindo, testando e aprendendo."
+Construindo, testando e aprendendo.
+```
+
 ### 👨‍💻 Sobre mim
 
 Sou estudante do **3º ano do curso Técnico em Informática** no **CEEINFOR – Centro Estadual de Educação, Inovação e Formação da Bahia Mãe Stella**, com conclusão prevista para 2026.
@@ -68,16 +81,29 @@ Essas são tecnologias com as quais já tive contato ou que estou explorando. Qu
 
 ### 📌 Projetos em destaque
 
-**🏫 EducaTech — Trabalho de Conclusão de Curso (TCC)**  
-Projeto educacional com uso de modelagem e ambiente 3D. Fui responsável por **modelar completamente o prédio escolar no Blender**; o projeto também utiliza Unity.
+#### 🏫 EducaTech VR — Trabalho de Conclusão de Curso (TCC)
 
-**🌡️ Monitor Ambiental e de Ocupação**  
-Projeto com sensores **DHT11 e BMP180**, desenvolvido por mim, voltado ao acompanhamento de condições ambientais.
+<img src="./educatech-card.svg" alt="Ilustração conceitual do projeto EducaTech VR: modelo 3D de uma escola" width="100%" />
 
-**📚 Organização de Bibliotecas**  
-Colaborei com a ideia e ajudei na organização do projeto, contribuindo para sua estruturação.
+Projeto educacional de **realidade virtual**. Fui responsável pela **modelagem completa do prédio escolar em 3D utilizando Blender** e participei do desenvolvimento da experiência com **Unity**.
 
-> Os repositórios dos projetos estão sendo preparados para apresentação no portfólio.
+`Modelagem 3D` `Blender` `Unity` `Educação` `Realidade virtual`
+
+#### 🌡️ Monitor Ambiental e de Ocupação
+
+<img src="./monitor-ambiental-card.svg" alt="Ilustração conceitual do monitor ambiental com sensores DHT11 e BMP180" width="100%" />
+
+Desenvolvi o monitor ambiental e de ocupação apresentado em projeto acadêmico, com uso dos sensores **DHT11** e **BMP180** para acompanhar condições do ambiente.
+
+`Sensores` `DHT11` `BMP180` `Monitoramento ambiental`
+
+*As imagens acima são ilustrações do conceito dos projetos, não capturas de tela reais.*
+
+#### 📚 Organização de Bibliotecas
+
+Contribuí com a **ideia original** e ajudei na organização e estruturação de uma solução web para bibliotecas.
+
+> Os repositórios dos projetos estão sendo preparados para apresentação pública no portfólio.
 
 ### 🎯 Objetivo
 
