@@ -1,116 +1,103 @@
 <div align="center">
 
-<img src="./banner-gustavo.svg" alt="Banner noir de Gustavo Suzart: preto, prata e terminal" width="100%" />
+<sub>NOIR KNIGHT OS · TERMINAL EDITION</sub>
 
-</div>
+# GUSTAVO SUZART MUNIZ
 
-<div align="center">
+**`TÉCNICO EM INFORMÁTICA`** · **`DESENVOLVIMENTO`** · **`MODELAGEM 3D`**
 
-# Gustavo Suzart
+<img src="./assets/knight-original.gif" alt="Cavaleiro ASCII original com cachecol vermelho em movimento" width="330" />
 
-**Técnico em Informática em formação | Desenvolvimento, sensores e modelagem 3D**
+**`[ THE KNIGHT HAS ENTERED THE TERMINAL ]`**
 
-Bahia, Brasil &nbsp;•&nbsp; Conclusão do curso técnico em 2026
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=1100&color=BFC5CD&center=true&vCenter=true&width=550&lines=Initializing+developer+profile...;Code.+Create.+Improve.+Repeat.;Building+real+projects..." alt="Mensagens de terminal animadas" />
 
 </div>
 
 ---
 
-### 01 // TERMINAL
+### `01 // BOOT SEQUENCE`
 
-```bash
-gustavo@portfolio:~$ whoami
-Gustavo Suzart Muniz | Técnico em Informática (formação em 2026)
+```console
+gustavo@noir-knight:~$ whoami
+Gustavo Suzart Muniz
+Técnico em Informática | Bahia, Brasil
 
-gustavo@portfolio:~$ ls interesses/
-desenvolvimento-web  sensores  modelagem-3d  realidade-virtual
+gustavo@noir-knight:~$ cat mission.txt
+Transformar ideias em projetos reais, aprender e evoluir.
 
-gustavo@portfolio:~$ echo "Construindo, testando e aprendendo."
-Construindo, testando e aprendendo.
+gustavo@noir-knight:~$ systemctl status portfolio
+● portfolio.service — active (learning)
 ```
 
-### 02 // SOBRE MIM
+### `02 // CHARACTER PROFILE`
 
-Sou estudante do **3º ano do curso Técnico em Informática** no **CEEINFOR – Centro Estadual de Educação, Inovação e Formação da Bahia Mãe Stella**, com conclusão prevista para 2026.
+Estudante do **3º ano do curso Técnico em Informática** no **CEEINFOR – Centro Estadual de Educação, Inovação e Formação da Bahia Mãe Stella**, com conclusão prevista para **2026**.
 
-Gosto de transformar ideias em projetos reais, combinando programação, tecnologia, sensores e modelagem 3D. Estou desenvolvendo meu portfólio para iniciar minha trajetória profissional na área de **Tecnologia da Informação**.
+Tenho interesse em desenvolvimento de software, aplicações web, sensores e experiências digitais. Também trabalho com modelagem 3D e ferramentas de criação interativa.
 
-- Interesse em desenvolvimento de software, aplicativos e soluções educacionais.
-- Experiência prática com **Blender** e **Unity** em projeto escolar.
-- Desenvolvimento de um projeto de monitoramento ambiental com sensores.
-- Participação na concepção e organização de um projeto de bibliotecas.
-- Aprendizado contínuo e evolução técnica.
-
-### 03 // FERRAMENTAS
-
-<p>
-  <img src="https://img.shields.io/badge/Blender-292A2E?style=for-the-badge&amp;logo=blender&amp;logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Unity-292A2E?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/GitHub-292A2E?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-</p>
-
-**Áreas que estou explorando:** desenvolvimento de aplicativos com React Native e TypeScript, projetos com sensores e ferramentas de desenvolvimento.
-
-### 04 // ESTATÍSTICAS DO GITHUB
+### `03 // SKILL TREE`
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/gustavsmuniz-coder?label=Seguidores&amp;style=for-the-badge&amp;logo=github&amp;labelColor=16171A&amp;color=575B62" alt="Número de seguidores no GitHub" />
-  <img src="https://img.shields.io/github/stars/gustavsmuniz-coder?affiliations=OWNER&amp;label=Estrelas&amp;style=for-the-badge&amp;logo=github&amp;labelColor=16171A&amp;color=575B62" alt="Estrelas recebidas nos repositórios" />
-  <img src="https://img.shields.io/github/commit-activity/m/gustavsmuniz-coder/gustavsmuniz-coder?label=Commits%20no%20m%C3%AAs&amp;style=for-the-badge&amp;logo=github&amp;labelColor=16171A&amp;color=575B62" alt="Commits do mês no repositório de perfil" />
+
+![HTML5](https://img.shields.io/badge/HTML5-202127?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-202127?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-202127?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-202127?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-202127?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-202127?style=for-the-badge&logo=blender&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-202127?style=for-the-badge&logo=unity&logoColor=white)
+
 </div>
 
-Esses indicadores são atualizados automaticamente e mostram apenas informações públicas do GitHub. O gráfico de contribuições completo também aparece na parte inferior do meu perfil.
+`EM ESTUDO:` TypeScript e React Native.
 
-### 05 // LINGUAGENS E TECNOLOGIAS
+### `04 // QUEST LOG — PROJETOS REAIS`
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-292A2E?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-292A2E?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-292A2E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-292A2E?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/C%23-292A2E?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/TypeScript-em%20estudo-292A2E?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript em estudo" />
-</p>
+**`QUEST 001` · EducaTech VR — TCC**
 
-- **Linguagens de programação:** JavaScript e C#.
-- **Tecnologias web:** HTML5 e CSS3.
-- **Ambiente de execução:** Node.js.
-- **Em estudo:** TypeScript para desenvolvimento de aplicativos com React Native.
+Experiência educacional em realidade virtual. Fui responsável pela **modelagem completa do prédio escolar em 3D no Blender** e participei do desenvolvimento com **Unity**.
 
-Essas são tecnologias com as quais já tive contato ou que estou explorando. Quando eu publicar repositórios com código, poderei mostrar também um ranking das linguagens realmente utilizadas nesses projetos.
+`Blender` · `Unity` · `Modelagem 3D` · `Educação`
 
-### 06 // PROJETOS EM DESTAQUE
+**`QUEST 002` · Monitor Ambiental e de Ocupação**
 
-#### EducaTech VR — Trabalho de Conclusão de Curso (TCC)
+Desenvolvi um projeto de monitoramento ambiental e de ocupação com sensores **DHT11** e **BMP180**.
 
-<img src="./educatech-card.svg" alt="Ilustração conceitual do projeto EducaTech VR: modelo 3D de uma escola" width="100%" />
+`Sensores` · `DHT11` · `BMP180` · `Monitoramento`
 
-Projeto educacional de **realidade virtual**. Fui responsável pela **modelagem completa do prédio escolar em 3D utilizando Blender** e participei do desenvolvimento da experiência com **Unity**.
+**`QUEST 003` · Organização de Bibliotecas**
 
-`Modelagem 3D` `Blender` `Unity` `Educação` `Realidade virtual`
+Contribuí com a **ideia do projeto** e auxiliei na organização e estruturação da solução para bibliotecas.
 
-#### Monitor Ambiental e de Ocupação
+`Organização` · `Tecnologia` · `Colaboração`
 
-<img src="./monitor-ambiental-card.svg" alt="Ilustração conceitual do monitor ambiental com sensores DHT11 e BMP180" width="100%" />
+> Alguns repositórios ainda são privados. As descrições acima refletem projetos realizados, sem apresentar links inacessíveis como se fossem públicos.
 
-Desenvolvi o monitor ambiental e de ocupação apresentado em projeto acadêmico, com uso dos sensores **DHT11** e **BMP180** para acompanhar condições do ambiente.
-
-`Sensores` `DHT11` `BMP180` `Monitoramento ambiental`
-
-*As imagens acima são ilustrações do conceito dos projetos, não capturas de tela reais.*
-
-#### Organização de Bibliotecas
-
-Contribuí com a **ideia original** e ajudei na organização e estruturação de uma solução web para bibliotecas.
-
-> Os repositórios dos projetos estão sendo preparados para apresentação pública no portfólio.
-
-### 07 // OBJETIVO
-
-Busco minha primeira oportunidade profissional em **TI**, onde eu possa aplicar meus conhecimentos, colaborar com equipes e continuar aprendendo por meio de desafios reais.
-
----
+### `05 // GUILD RECORDS — GITHUB`
 
 <div align="center">
-  <sub>PORTFÓLIO / GUSTAVO SUZART • Obrigado pela visita.</sub>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gustavsmuniz-coder&show_icons=true&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=BFC5CD&icon_color=BFC5CD&border_color=30363D" alt="Estatísticas do GitHub" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavsmuniz-coder&layout=compact&theme=dark&bg_color=0D1117&title_color=FFFFFF&text_color=BFC5CD&border_color=30363D" alt="Linguagens detectadas em repositórios públicos" />
+
+</div>
+
+> Os cartões externos podem ficar temporariamente indisponíveis. O gráfico de linguagens considera os repositórios públicos analisáveis, não todas as minhas habilidades.
+
+### `06 // FINAL COMMAND`
+
+```console
+gustavo@noir-knight:~$ git status
+On branch main
+Learning. Building. Improving.
+```
+
+<div align="center">
+
+[**`VIEW REPOSITORIES`**](https://github.com/gustavsmuniz-coder?tab=repositories)
+
+<sub>NOIR KNIGHT TERMINAL · CODE. CREATE. IMPROVE. REPEAT.</sub>
+
 </div>
