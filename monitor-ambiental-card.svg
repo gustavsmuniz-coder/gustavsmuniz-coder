@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
-  <title id="title">Monitor Ambiental e de Ocupação — sensores DHT11 e BMP180</title>
-  <desc id="desc">Ilustração conceitual de uma placa com sensores conectados a indicadores ambientais. Não é captura de tela nem gráfico de medições reais.</desc>
+  <title id="title">Monitor Ambiental — ilustração noir de sensores</title>
+  <desc id="desc">Ilustração conceitual monocromática em estilo noir de uma placa com sensores. Não é captura de tela nem gráfico de medições reais.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
       <stop offset="0" stop-color="#0B2031"/><stop offset="1" stop-color="#112B42"/>
@@ -11,7 +11,11 @@
     <pattern id="dots" width="23" height="23" patternUnits="userSpaceOnUse">
       <circle cx="4" cy="4" r="1" fill="#6FDCE7" opacity=".18"/>
     </pattern>
+    <filter id="noir" color-interpolation-filters="sRGB">
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
   </defs>
+  <g filter="url(#noir)">
   <rect width="1000" height="310" rx="20" fill="url(#bg)"/>
   <rect width="1000" height="310" rx="20" fill="url(#dots)"/>
   <rect width="7" height="310" rx="3" fill="#3D9CFF"/>
@@ -47,4 +51,5 @@
   <rect x="637" y="207" width="119" height="36" rx="9" fill="#18455F" stroke="#387FBD"/>
   <text x="697" y="231" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#EAF9FF" text-anchor="middle">BMP180</text>
   <text x="520" y="284" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.2" fill="#7DA3B3">ILUSTRAÇÃO CONCEITUAL</text>
+  </g>
 </svg>
