@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
+  <title id="title">EducaTech VR — modelagem 3D e realidade virtual</title>
+  <desc id="desc">Ilustração conceitual de uma escola em perspectiva tridimensional, com os dizeres EducaTech VR, Blender e Unity. Não é captura de tela do projeto.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0C2033"/><stop offset="1" stop-color="#102A40"/>
+    </linearGradient>
+    <linearGradient id="front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#D7F2F8"/><stop offset="1" stop-color="#85BAC9"/>
+    </linearGradient>
+    <linearGradient id="roof" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#31C8D4"/><stop offset="1" stop-color="#16869B"/>
+    </linearGradient>
+    <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
+      <path d="M25 0H0V25" fill="none" stroke="#4EC9DC" stroke-width=".7" opacity=".1"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="310" rx="20" fill="url(#bg)"/>
+  <rect width="1000" height="310" rx="20" fill="url(#grid)"/>
+  <rect x="0" y="0" width="7" height="310" rx="3" fill="#21BFCC"/>
+  <circle cx="36" cy="30" r="5" fill="#20BCC9"/><circle cx="53" cy="30" r="5" fill="#1F7192"/><circle cx="70" cy="30" r="5" fill="#28546D"/>
+
+  <!-- Conceptual 3D building model -->
+  <ellipse cx="257" cy="257" rx="205" ry="31" fill="#061522" opacity=".65"/>
+  <path d="M75 224L248 148L431 215L264 288Z" fill="#215669" opacity=".9"/>
+  <path d="M135 116L282 60L410 110L265 166Z" fill="url(#roof)"/>
+  <path d="M135 116L265 166V262L135 211Z" fill="url(#front)"/>
+  <path d="M265 166L410 110V211L265 262Z" fill="#6394A9"/>
+  <path d="M124 111L280 50L422 106L267 174Z" fill="none" stroke="#A2F4FA" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M134 211L265 262L410 211" fill="none" stroke="#1B5A74" stroke-width="4"/>
+  <g fill="#255C76" stroke="#C9F5FA" stroke-width="3">
+    <path d="M157 149L191 162V192L157 180Z"/>
+    <path d="M211 170L243 182V213L211 202Z"/>
+    <path d="M302 177L337 164V193L302 207Z"/>
+    <path d="M354 156L386 143V173L354 185Z"/>
+  </g>
+  <path d="M206 227L236 238V262L206 250Z" fill="#0D485F"/>
+  <path d="M219 238L223 240" stroke="#5BE4E9" stroke-width="3"/>
+  <path d="M158 128L259 168L403 114" fill="none" stroke="#E1FFFF" stroke-width="2" opacity=".55"/>
+  <path d="M104 196L77 210L104 225" stroke="#22C8D3" stroke-width="3" fill="none" opacity=".75"/>
+  <path d="M440 164L459 173L440 183" stroke="#22C8D3" stroke-width="3" fill="none" opacity=".75"/>
+
+  <rect x="520" y="49" width="117" height="24" rx="12" fill="#174A60"/>
+  <text x="578" y="65" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" fill="#79E5ED" text-anchor="middle">PORTFÓLIO</text>
+  <text x="520" y="121" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" fill="#F3FAFC">EducaTech <tspan fill="#31CCD6">VR</tspan></text>
+  <text x="520" y="155" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#CEE1EA">Escola modelada em 3D para</text>
+  <text x="520" y="183" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#CEE1EA">um projeto educacional em VR.</text>
+  <rect x="520" y="209" width="108" height="35" rx="9" fill="#1D546B" stroke="#2B9CB2"/>
+  <text x="574" y="231" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#F0FCFC" text-anchor="middle">Blender</text>
+  <rect x="639" y="209" width="93" height="35" rx="9" fill="#1D546B" stroke="#2B9CB2"/>
+  <text x="685" y="231" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#F0FCFC" text-anchor="middle">Unity</text>
+  <text x="520" y="284" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.2" fill="#7DA3B3">ILUSTRAÇÃO CONCEITUAL</text>
+</svg>
