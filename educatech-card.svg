@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 310" role="img" aria-labelledby="title desc">
-  <title id="title">EducaTech VR — modelagem 3D e realidade virtual</title>
-  <desc id="desc">Ilustração conceitual de uma escola em perspectiva tridimensional, com os dizeres EducaTech VR, Blender e Unity. Não é captura de tela do projeto.</desc>
+  <title id="title">EducaTech VR — ilustração noir de modelagem 3D</title>
+  <desc id="desc">Ilustração conceitual monocromática em estilo noir de uma escola em perspectiva tridimensional. Não é captura de tela do projeto.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0C2033"/><stop offset="1" stop-color="#102A40"/>
@@ -14,7 +14,11 @@
     <pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse">
       <path d="M25 0H0V25" fill="none" stroke="#4EC9DC" stroke-width=".7" opacity=".1"/>
     </pattern>
+    <filter id="noir" color-interpolation-filters="sRGB">
+      <feColorMatrix type="saturate" values="0"/>
+    </filter>
   </defs>
+  <g filter="url(#noir)">
   <rect width="1000" height="310" rx="20" fill="url(#bg)"/>
   <rect width="1000" height="310" rx="20" fill="url(#grid)"/>
   <rect x="0" y="0" width="7" height="310" rx="3" fill="#21BFCC"/>
@@ -50,4 +54,5 @@
   <rect x="639" y="209" width="93" height="35" rx="9" fill="#1D546B" stroke="#2B9CB2"/>
   <text x="685" y="231" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" fill="#F0FCFC" text-anchor="middle">Unity</text>
   <text x="520" y="284" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.2" fill="#7DA3B3">ILUSTRAÇÃO CONCEITUAL</text>
+  </g>
 </svg>
