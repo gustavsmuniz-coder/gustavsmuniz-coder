@@ -1,63 +1,68 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">Banner de Gustavo Suzart</title>
-  <desc id="desc">Banner profissional em azul-marinho e ciano para um portfólio de tecnologia, com o nome Gustavo Suzart, referência à formação técnica em Informática e ilustração de circuito eletrônico.</desc>
+  <title id="title">Gustavo Suzart — portfólio noir</title>
+  <desc id="desc">Banner em estilo noir tecnológico, preto e prata, com monograma GS, o nome Gustavo Suzart e uma janela de terminal.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071421"/>
-      <stop offset="0.53" stop-color="#10263B"/>
-      <stop offset="1" stop-color="#0A1A2B"/>
+    <linearGradient id="night" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060708"/>
+      <stop offset=".54" stop-color="#181A1E"/>
+      <stop offset="1" stop-color="#08090B"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4DE6D3"/>
-      <stop offset="1" stop-color="#4BA3FF"/>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#646A73"/>
+      <stop offset=".53" stop-color="#F3F3F3"/>
+      <stop offset="1" stop-color="#7C828A"/>
     </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#168CA4" stop-opacity="0.27"/>
-      <stop offset="1" stop-color="#168CA4" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#B7DBF2" stroke-opacity="0.07" stroke-width="1"/>
+    <linearGradient id="spot" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F4F4F5" stop-opacity=".17"/>
+      <stop offset="1" stop-color="#9D9FA8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="lines" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#BEC1C7" stroke-opacity=".065" stroke-width="1"/>
     </pattern>
-    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="0" dy="9" stdDeviation="14" flood-color="#04101B" flood-opacity="0.55"/>
-    </filter>
+    <pattern id="rain" width="88" height="105" patternUnits="userSpaceOnUse" patternTransform="skewX(-15)">
+      <path d="M12 -10V34M53 55V108" stroke="#E3E3E3" stroke-opacity=".055" stroke-width="2"/>
+    </pattern>
   </defs>
+  <rect width="1280" height="360" rx="22" fill="url(#night)"/>
+  <rect width="1280" height="360" rx="22" fill="url(#lines)"/>
+  <rect width="1280" height="360" rx="22" fill="url(#rain)"/>
+  <path d="M840 0H1090L920 360H662Z" fill="url(#spot)"/>
+  <path d="M1114 0H1186L1060 360H987Z" fill="#D3D5D8" opacity=".028"/>
+  <rect x="16" y="16" width="1248" height="328" rx="14" fill="none" stroke="#74777D" stroke-width="1.4" opacity=".36"/>
+  <path d="M48 46H154M1128 46H1230" stroke="url(#silver)" stroke-width="3" stroke-linecap="round" opacity=".9"/>
+  <text x="60" y="328" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.6" fill="#92959C">BAHIA / BRASIL — 2026</text>
 
-  <rect width="1280" height="360" rx="25" fill="url(#background)"/>
-  <rect width="1280" height="360" rx="25" fill="url(#grid)"/>
-  <circle cx="970" cy="145" r="300" fill="url(#glow)"/>
-  <path d="M850 0L1280 0V360H1060Z" fill="#123D55" opacity="0.26"/>
-  <rect x="14" y="14" width="1252" height="332" rx="18" fill="none" stroke="#6CC7E4" stroke-opacity="0.21" stroke-width="1.5"/>
-  <path d="M46 52H156" stroke="url(#accent)" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="174" cy="52" r="4" fill="#4DE6D3"/>
-
-  <g filter="url(#shadow)">
-    <rect x="66" y="118" width="126" height="126" rx="24" fill="#132E44" stroke="#3FC8D3" stroke-width="2.5"/>
-    <path d="M79 227H179" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-    <text x="129" y="199" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800" fill="#ECFAFF" letter-spacing="-3">GS</text>
+  <!-- Metallic monogram, inspired by a noir title card -->
+  <g>
+    <rect x="67" y="115" width="126" height="126" rx="12" fill="#0A0B0D" stroke="#989BA2" stroke-width="2"/>
+    <path d="M80 127H181M80 229H181" stroke="#3F424A" stroke-width="2"/>
+    <path d="M78 217L184 111" stroke="#B8BBC0" stroke-width="2" opacity=".5"/>
+    <text x="130" y="199" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="800" letter-spacing="-4" fill="#F0F1F2">GS</text>
   </g>
 
-  <text x="235" y="113" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#64E0D0">PORTFÓLIO DE TECNOLOGIA</text>
-  <text x="232" y="184" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-1.5" fill="#F6FCFF">Gustavo Suzart</text>
-  <rect x="235" y="209" width="85" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="235" y="252" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="600" fill="#C9E6F1">Técnico em Informática</text>
-  <text x="235" y="285" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#9CC7D8">Desenvolvimento  •  Projetos  •  Modelagem 3D</text>
+  <text x="234" y="111" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="5" font-weight="700" fill="#B8BAC1">TECH / PORTFÓLIO</text>
+  <text x="231" y="183" font-family="Arial,Helvetica,sans-serif" font-size="63" letter-spacing="-1.8" font-weight="800" fill="#F4F4F4">Gustavo Suzart</text>
+  <path d="M235 209H334" stroke="url(#silver)" stroke-width="5" stroke-linecap="round"/>
+  <text x="234" y="249" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="600" fill="#D4D5D8">Técnico em Informática</text>
+  <text x="234" y="283" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#A4A7AD">Código  /  Sensores  /  Modelagem 3D</text>
 
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M936 94H1130Q1141 94 1141 106V228H925V106Q925 94 936 94Z" fill="#0D2539" stroke="#56B6CF" stroke-width="3"/>
-    <rect x="944" y="113" width="178" height="96" rx="5" fill="#102D43" stroke="#315E75" stroke-width="1.5"/>
-    <path d="M915 229H1151L1170 248Q1173 253 1164 253H902Q893 253 896 248Z" fill="#153A51" stroke="#56B6CF" stroke-width="2.5"/>
-    <path d="M1001 146L982 161L1001 177M1065 146L1084 161L1065 177" stroke="#56E2D3" stroke-width="5"/>
-    <path d="M1042 139L1024 184" stroke="#8EBEFF" stroke-width="4"/>
-    <path d="M937 280H1190M962 298H1214" stroke="#4FB4CB" stroke-opacity="0.26" stroke-width="2"/>
-    <path d="M880 137H916M884 184H916M1150 139H1193V113H1224M1150 190H1205V214H1230" stroke="#4BA3C4" stroke-opacity="0.60" stroke-width="2.5"/>
-    <path d="M943 71V87M1033 55V87M1124 67V87" stroke="#50BBCB" stroke-opacity="0.60" stroke-width="2.5"/>
+  <!-- Terminal window -->
+  <g>
+    <rect x="873" y="80" width="341" height="202" rx="12" fill="#08090B" stroke="#747982" stroke-width="2"/>
+    <rect x="873" y="80" width="341" height="35" rx="12" fill="#272A30"/>
+    <path d="M873 102V115H1214V102" fill="#272A30"/>
+    <path d="M873 115H1214" stroke="#63676F" opacity=".7"/>
+    <circle cx="896" cy="97" r="5" fill="#888C93"/>
+    <circle cx="913" cy="97" r="5" fill="#5F646B"/>
+    <circle cx="930" cy="97" r="5" fill="#43464C"/>
+    <text x="1057" y="101" text-anchor="middle" font-family="monospace" font-size="12" fill="#B4B6BC">gustavo@portfolio</text>
+    <text x="894" y="148" font-family="monospace" font-size="18" fill="#EBEBEB">$ whoami</text>
+    <text x="894" y="174" font-family="monospace" font-size="18" fill="#AEB2B8">gustavo-suzart</text>
+    <text x="894" y="207" font-family="monospace" font-size="18" fill="#EBEBEB">$ ls projetos/</text>
+    <text x="894" y="234" font-family="monospace" font-size="18" fill="#AEB2B8">3d  web  sensores</text>
+    <text x="894" y="261" font-family="monospace" font-size="18" fill="#DADDE0">&gt; <tspan fill="#EDEFF1">_</tspan></text>
   </g>
-  <g fill="#53D8D1">
-    <circle cx="880" cy="137" r="5"/><circle cx="884" cy="184" r="5"/>
-    <circle cx="1224" cy="113" r="5"/><circle cx="1230" cy="214" r="5"/>
-    <circle cx="943" cy="71" r="4"/><circle cx="1033" cy="55" r="4"/><circle cx="1124" cy="67" r="4"/>
-  </g>
-  <path d="M46 324H1234" stroke="#6AB9D0" stroke-opacity="0.17" stroke-width="1"/>
-  <text x="65" y="337" font-family="Segoe UI, Arial, sans-serif" font-size="12" letter-spacing="2" fill="#6F9CB0">BAHIA, BRASIL · 2026</text>
+  <path d="M846 81V281M1234 81V281" stroke="#BEC1C7" stroke-width="1" opacity=".22"/>
+  <path d="M45 313H1235" stroke="#8A8C92" stroke-width="1" opacity=".28"/>
+  <text x="1219" y="329" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.4" fill="#83868E">PORTFÓLIO / NOIR EDITION</text>
 </svg>
